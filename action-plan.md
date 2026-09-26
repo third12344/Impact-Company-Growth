@@ -13,7 +13,7 @@ _Started 2026-09-26. Check items off as we go._
 - [ ] Book both exams (Law & Business and the C-7 trade exam) and get the qualifier a study course.
 - [ ] Find the **hazmat certificate** and record exactly what it is.
 - [ ] Get the **insurance certificate (COI)** from your agent and write down the GL per-occurrence and aggregate limits, umbrella, auto, and WC.
-- [ ] Ask Dad: **does he have a DD-214 with honorable discharge? Any VA disability rating, even 0%?**
+- [ ] Find Dad's **DD-214** (honorable discharge). It's needed for the VOSB application. _(No VA rating, so VOSB is our veteran certification.)_
 
 ## Step 1: Next 30 days (make the company look like a bigger contractor)
 - [ ] **One-page capability statement:** services, licenses, W-2 crew size, insurance, service area, and McDonald's rollout stats (number of stores, on-time %, callbacks). I can draft this.
@@ -22,7 +22,7 @@ _Started 2026-09-26. Check items off as we go._
 - [ ] **DIR public works registration** (online, about $400 a year). This is required to bid any California public job.
 - [ ] **SBA VetCert VOSB application** (free, at veterans.certify.sba.gov). No disability is required. It helps on federal and VA work and with large primes that have veteran subcontracting goals.
 - [ ] **CA SB / SB-PW certification** through DGS (free). This gives a 5% bid preference on state jobs.
-- [ ] Get Dad a VA disability evaluation if he has any service-connected condition. A **10%+ rating unlocks CA DVBE**, which is one of the strongest advantages in California public contracting because every state agency has a 3% DVBE spending goal and many primes can't find DVBE subs.
+- [ ] **Partner with DVBE firms instead.** Dad has no VA rating, so we can't be DVBE ourselves. But primes on CA public jobs have to hit 3% DVBE participation, so teaming with a certified DVBE (as our sub or supplier, or us as theirs) still gets us into those bids. Search the [Cal eProcure SB/DVBE directory](https://caleprocure.ca.gov/pages/PublicSearch/supplier-search.aspx) for DVBE low voltage or electrical firms.
 
 ## Step 2: 30–90 days (start bidding)
 **A. Chain and retail rollouts (fastest money, same work we do now)**

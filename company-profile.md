@@ -14,7 +14,7 @@ _Last updated: 2026-09-26. Items marked **?** are still open questions._
 | Hazmat license | Held. **? Find the card or certificate and record the exact name and number.** |
 | DIR public works registration | Not yet |
 | SB / SB-PW certification | Not yet |
-| Veteran certs | Not yet. Eligible for federal **VOSB** (no disability required). **? Does Dad have any VA service-connected rating? If yes: SDVOSB (0% counts) and, at 10%+, CA DVBE.** |
+| Veteran certs | Not yet. Eligible for federal **VOSB** (SBA VetCert, no disability required). Dad has no VA rating, so SDVOSB and CA DVBE don't apply. |
 | WA / OR / NV / AZ licenses | None. We trade work with a WA-licensed sub. |
 | BICSI / manufacturer certs | None yet |
 | Other certs | MAPS / McDonald's program only |
