@@ -1,29 +1,37 @@
-# Company Profile — The Impact Company
+# Company Profile: The Impact Company
 
-_Last updated: 2026-09-26. Items marked **?** are open questions._
+_Last updated: 2026-09-26. Items marked **?** are still open questions._
+
+## People
+- **CEO:** Trent's dad, a U.S. military veteran (not deployed).
+- **Trent:** Operations Supervisor and second-in-command.
 
 ## Licenses & credentials
 | Item | Status |
 |---|---|
-| CA C-7 Low Voltage Systems | Almost done — **? which step: exam passed / pending bond / pending issuance** |
-| General contractor license | Held — **? CA "B"? other states?** |
-| Hazmat license | Held — **? which one (e.g., DOSH asbestos registration, HAZWOPER, CSLB ASB cert)** |
-| DIR public works registration | **?** |
-| SB / SB-PW / DVBE / MBE / WBE certs | **?** |
-| WA / OR / NV / AZ licenses | **?** |
-| BICSI (Installer / Technician / RCDD) staff | **?** |
-| Manufacturer certs (Panduit, CommScope, Corning, Leviton, Genetec, Avigilon, Verkada, etc.) | **?** |
+| CA C-7 Low Voltage Systems | Application in; qualifier still needs to pass the exams. **? Check the "void date" on CSLB (see action plan).** |
+| General contractor license | CA. **? Confirm it's a "B".** |
+| Hazmat license | Held. **? Find the card or certificate and record the exact name and number.** |
+| DIR public works registration | Not yet |
+| SB / SB-PW certification | Not yet |
+| Veteran certs | Not yet. Eligible for federal **VOSB** (no disability required). **? Does Dad have any VA service-connected rating? If yes: SDVOSB (0% counts) and, at 10%+, CA DVBE.** |
+| WA / OR / NV / AZ licenses | None. We trade work with a WA-licensed sub. |
+| BICSI / manufacturer certs | None yet |
+| Other certs | MAPS / McDonald's program only |
 
 ## Operations
-- W-2 workforce (**? headcount, how many field techs, union or open shop**)
-- Insurance in place (**? GL per-occurrence / aggregate, umbrella, auto, WC**)
-- Bonding capacity (**? single / aggregate**)
+- Gross revenue: about **$1M/year**
+- Field techs: **10–15 W-2**
+- Labor: open shop (non-union), **? confirm**
+- Insurance: about **$1M** (likely $1M per occurrence GL). **? Get the actual certificate: GL occurrence/aggregate, umbrella, auto, WC.**
+- Bonding capacity: **? none established yet**
 - Service area: West Coast
-- Annual revenue: **?**  Largest single job to date: **?**
 
-## Current customers
-- **MAPS** — McDonald's-only provider. We cannot work for McDonald's directly (**? confirm scope of non-compete / non-solicit: is it only McDonald's, or other QSR too? duration? geography?**)
-- Current dependency: ~100% of revenue from one channel.
+## Customers
+- **MAPS** (McDonald's only). Informally, we don't compete with them for McDonald's work. There's no legal non-compete, so all other QSR, retail, and commercial work is open to us.
 
-## Services performed today
-**? e.g., POS/drive-thru cabling, cameras, network racks, menu boards, audio, access control**
+## Target markets (from Trent)
+1. Other retail and chain rollouts (QSR, retail, other companies)
+2. Large government projects
+3. Data centers ⭐
+4. Office buildings, casinos
